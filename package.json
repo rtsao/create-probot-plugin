@@ -1,5 +1,5 @@
 {
-  "name": "create-probot-plugin",
+  "name": "@rtsao/create-probot-plugin",
   "version": "1.0.1",
   "description": "Create a probot plugin",
   "bin": {
